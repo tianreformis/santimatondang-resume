@@ -1,29 +1,29 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
+    "name": "Santi Matodang",
+    "job": "Staf Administrasi, Perkantas Kalimantan Tengah",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "aboutMe": "Staf Admin Perkantas Kalimantan tengah, berpengalaman manajement data dan pembukuan keuangan",
     "socialNetwork": [
       {
         "name": "Twitter",
-        "url": "https://twitter.com/billgates"
+        "url": "https://twitter.com/santimandongan"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/williamhgates"
+        "url": "https://www.linkedin.com/in/santi-matondang-618344310/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
+        "url": "https://www.instagram.com/santimatondang/"
       }
     ]
   },
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Bill Gates",
-    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+    "value": "Santi Matodang",
+    "url": "https://github.com/microsoft/TypeScript"
   },
   "information": [
     {
@@ -82,7 +82,7 @@
     {
       "name": "Portuguese",
       "code": "en-US",
-      "flag": "svg/brazil.svg",
+      "flag": "svg/indonesia.svg",
       "level": "Intermediate"
     }
   ],

@@ -1,33 +1,33 @@
 {
-  "resume": "Curriculum",
-  "information": "Dados Pessoais",
-  "skills": "Habilidades",
-  "language": "Idiomas",
-  "about": "Sobre mim",
-  "experience": "Experiência",
-  "volunteer": "Trabalho Voluntário",
-  "education": "Formação Acadêmica",
-  "license": "Licenças e Certificados",
-  "project": "Projetos",
-  "credential": "Credencial",
-  "credential_code": "Código da Credencial:",
+  "resume": "Resume",
+  "information": "Informasi",
+  "skills": "Skills",
+  "language": "Bahasa",
+  "about": "Tentang",
+  "experience": "Pengalaman",
+  "volunteer": "Volunteer",
+  "education": "Pendidikan",
+  "license": "Serfikat",
+  "project": "Proyek",
+  "credential": "Kredemsial",
+  "credential_code": "Kode Krendensial:",
   "settings": {
-    "title": "Configurações",
+    "title": "Judul",
     "theme": "Tema",
-    "dark_mode": "Habilitar modo escuro?",
-    "pt": "Potuguês",
-    "en": "Inglês"
+    "dark_mode": "Mode Gelap?",
+    "pt": "Indonesia",
+    "en": "Inggris"
   },
   "menu": {
-    "experience": "Experiência",
-    "education": "Educação",
-    "project": "Projetos"
+    "experience": "Pengalaman",
+    "education": "Pendidikan",
+    "project": "Proyek"
   },
   "paginate": {
-    "count": "Mostrando de {first} a {last} de {total} resultados",
-    "previous_page": "Página anterior",
-    "next_page": "Próxima página",
-    "first_page": "Primeira página",
-    "last_page": "Última página"
+    "count": "Menampilkan hasil {first} dari {last} semua {total} hasil",
+    "previous_page": "Sebelumya",
+    "next_page": "Berikutnya",
+    "first_page": "Pertama",
+    "last_page": "Terakhirx"
   }
 }
