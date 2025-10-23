@@ -3,7 +3,7 @@
     "name": "Santi Matodang",
     "job": "Staf Administrasi, Perkantas Kalimantan Tengah",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Santi Matondang adalah seorang staf admin di Perkantas dengan latar belakang pendidikan dari Fakultas Pendidikan, keterampilan dalam manajemen pembukuan, senang mengajar anak-anakserta minat dalam membaca buku dan memasak.",
+    "aboutMe": "Profesional yang teliti dengan lebih dari 3 tahun pengalaman dalam bidang administrasi dan manajemen keuangan. Terampil menggunakan Microsoft Office, pengolahan data Excel, serta pengelolaan dokumen. Mampu mendukung operasional harian, mengelola anggaran, dan mengoordinasikan kegiatan secara efisien. Kreatif dan mudah beradaptasi, memiliki ketertarikan kuat pada bidang keuangan, perencanaan, serta penggunaan alat digital seperti Canva dan Notion. Berkeinginan untuk berkontribusi sebagai Staf Administrasi, Asisten Akuntansi, atau Perencana Keuangan dalam organisasi yang dinamis dan berorientasi pada pertumbuhan.",
     "socialNetwork": [
       {
         "name": "tiktok",
@@ -22,8 +22,8 @@
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Santi Matodang",
-    "url": "https://github.com/microsoft/TypeScript"
+    "value": "Santi Matodang Resume-CV",
+    "url": "https://drive.google.com/file/d/1V8sGA0z4103iRRIJqp0p6DX5H9pOfEeD/view?usp=sharing"
   },
   "information": [
     {
@@ -39,7 +39,7 @@
     {
       "icon": "DevicePhoneMobileIcon",
       "name": "Nomor Handphone",
-      "value": "+1 (800) 642 7676"
+      "value": "+6281258324754"
     },
     {
       "icon": "ComputerDesktopIcon",
@@ -48,50 +48,60 @@
     }
   ],
   "skill": [
-    "Photo Editing",
+    "Editing Photo Canva",
     "Microsoft Excel",
     "Microsoft Word",
-    "Money Management",
-    "Money Time",
-
-
-    "Microsoft Powerpoint"
+    "Manajemen Waktu",
+    "Manajemen Keuangan",
+    "Microsoft Powerpoint",
+    "Editing Video Capcut"
   ],
   "language": [
     {
       "name": "Bahasa Indonesia",
       "code": "id-ID",
       "flag": "svg/indonesia.svg",
-      "level": "Bahasa Ibu"
+      "level": "Penutur"
     },
     {
       "name": "Bahasa Inggris",
       "code": "en-US",
-      "flag": "svg/united-states  .svg",
+      "flag": "svg/united-states.svg",
       "level": "Sedang"
     }
   ],
   "experience": [
     {
-      "job": "Staf Administrasi",
+      "job": "Kasir & Front Office",
+      "company": "UMKM Lokal",
+      "companyLogo": "img/company/umkm.jpg",
+      "location": "Palangkaraya",
+      "workType": "Paruh Waktu",
+      "start": "Jan 2018",
+      "end": "Des 2019",
+      "description": "Menangani transaksi harian, melayani pelanggan, dan menjaga ketepatan pencatatan keuangan. Mengoperasikan kasir dan memastikan kelancaran operasional front office guna mendukung efisiensi bisnis."
+    },
+    {
+      "job": "Asisten Peneliti",
+      "company": "Universitas Palangkaraya",
+      "companyLogo": "img/company/upr_logo.png",
+      "location": "Palangkaraya",
+      "workType": "Paruh Waktu",
+      "start": "Jan 2020",
+      "end": "Jan 2021",
+      "description": "Mendampingi dosen dalam pelaksanaan penelitian akademik, termasuk pengumpulan data, analisis, dan penulisan laporan. Melakukan studi literatur untuk mendukung kajian penelitian. Mengelola administrasi penelitian seperti dokumentasi, pengarsipan, dan laporan kemajuan. Membantu proses pembimbingan mahasiswa dalam penelitian dan penulisan karya ilmiah. Berkolaborasi agar penelitian berjalan sesuai jadwal dan standar akademik."
+    },
+    {
+      "job": "Staf Administrasi & Keuangan",
       "company": "Perkantas Palangkaraya",
       "companyLogo": "img/company/perkantas.webp",
       "location": "Palangkaraya",
       "workType": "Penuh Waktu",
       "start": "Juni 2021",
       "end": "Sekarang",
-      "description": "Bertanggung jawab atas berbagai tugas administratif, termasuk pengelolaan dokumen, koordinasi jadwal, dan dukungan operasional harian. Berhasil meningkatkan efisiensi operasional melalui implementasi sistem manajemen dokumen yang lebih terstruktur."
-    },
-    {
-      "job": "Favorion Les",
-      "company": "Guru Les",
-      "companyLogo": "img/company/founder.jpg",
-      "location": "Palangkaraya",
-      "workType": "Paruh Waktu",
-      "start": "January 2024",
-      "end": "Current",
-      "description": "Mengajar berbagai mata pelajaran kepada anak-anak usia sekolah dasar dan menengah. Berfokus pada pengembangan keterampilan dasar seperti membaca, menulis, dan matematika. Berhasil meningkatkan pemahaman siswa melalui metode pengajaran yang kreatif dan interaktif."
+      "description": "Mengelola layanan mahasiswa dan alumni secara terstruktur dan tepat waktu. Mengoordinasikan jadwal, acara, serta kebutuhan kegiatan pelayanan rohani. Menjadi penghubung antara organisasi dan alumni untuk membangun hubungan yang baik dan berkelanjutan. Mengelola data alumni serta mendukung komunikasi untuk penggalangan dana. Menangani administrasi keuangan termasuk penyusunan anggaran, pencatatan pengeluaran, dan pelaporan keuangan. Menyiapkan laporan administrasi, keuangan, dan kegiatan. Berkontribusi dalam pengembangan strategi pelayanan dan keuangan untuk meningkatkan dampak dan transparansi organisasi."
     }
+    
   ],
   "education": [
     {
@@ -115,7 +125,7 @@
     {
       "job": "Mahasiswa Magang",
       "company": "BKP Palangkaraya",
-      "companyLogo": "img/company/green-peace.jpg",
+      "companyLogo": "img/company/bkp_logo.png",
       "location": "Palangkaraya",
       "workType": "Paruh Waktu",
       "start": "Januari 2019",
@@ -124,6 +134,42 @@
     }
   ],
   "certificate": [
+    {
+      "course": "Capcut Editing Video",
+      "school": "Udemy",
+      "schoolLogo": "img/college/udemy.jpg",
+      "issueDate": "September 2025",
+      "expirationDate": "No expiration date",
+      "credentialCode": "-",
+      "url": ""
+    },
+    {
+      "course": "Microsoft Office Specialist (MOS)",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
+      "expirationDate": "No expiration date",
+      "credentialCode": "-",
+      "url": ""
+    },
+    {
+      "course": "Microsoft Office Excel Specialist",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
+      "expirationDate": "No expiration date",
+      "credentialCode": "-",
+      "url": ""
+    },
+    {
+      "course": "Artificial Intelligence Microsoft Word",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
+      "expirationDate": "No expiration date",
+      "credentialCode": "-",
+      "url": ""
+    },
     {
       "course": "Training Laporan Keuangan",
       "school": "Perkantas",
@@ -137,12 +183,20 @@
   ],
   "project": [
     {
-      "name": "Laporan",
+      "name": "Laporan Penelitian",
       "description": "Laporan",
       "language": "Karya Ilmiah",
       "image": "img/college/unpar.png",
       "stars": "+4",
-      "url": "https://github.com/microsoft/vscode"
+      "url": ""
+    },
+    {
+      "name": "Laporan Penelitian",
+      "description": "Laporan",
+      "language": "Karya Ilmiah",
+      "image": "img/college/unpar.png",
+      "stars": "+4",
+      "url": ""
     }
     
   ]
