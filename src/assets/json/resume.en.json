@@ -3,11 +3,11 @@
     "name": "Santi Matodang",
     "job": "Staf Administrasi, Perkantas Kalimantan Tengah",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Staf Admin Perkantas Kalimantan tengah, berpengalaman manajement data dan pembukuan keuangan",
+    "aboutMe": "Profesional yang teliti dengan lebih dari 3 tahun pengalaman dalam bidang administrasi dan manajemen keuangan. Terampil menggunakan Microsoft Office, pengolahan data Excel, serta pengelolaan dokumen. Mampu mendukung operasional harian, mengelola anggaran, dan mengoordinasikan kegiatan secara efisien. Kreatif dan mudah beradaptasi, memiliki ketertarikan kuat pada bidang keuangan, perencanaan, serta penggunaan alat digital seperti Canva dan Notion. Berkeinginan untuk berkontribusi sebagai Staf Administrasi, Asisten Akuntansi, atau Perencana Keuangan dalam organisasi yang dinamis dan berorientasi pada pertumbuhan.",
     "socialNetwork": [
       {
-        "name": "Tiktok",
-        "url": "https://tiktok.com/santi_matondang"
+        "name": "tiktok",
+        "url": "https://tiktok.com/"
       },
       {
         "name": "linkedin",
@@ -22,205 +22,182 @@
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Santi Matodang",
-    "url": "https://github.com/microsoft/TypeScript"
+    "value": "Santi Matodang Resume-CV",
+    "url": "https://drive.google.com/file/d/1V8sGA0z4103iRRIJqp0p6DX5H9pOfEeD/view?usp=sharing"
   },
   "information": [
     {
       "icon": "EnvelopeIcon",
-      "name": "Mail address",
-      "value": "billgates@microsoft.com"
+      "name": "Alamat Email",
+      "value": "santimatondang775@gmail.com"
     },
     {
       "icon": "CakeIcon",
-      "name": "66 Years old",
-      "value": "28 october 1955"
+      "name": "24 Tahun",
+      "value": "Maret 2000"
     },
     {
       "icon": "DevicePhoneMobileIcon",
-      "name": "Phone Number",
-      "value": "+1 (800) 642 7676"
+      "name": "Nomor Handphone",
+      "value": "+6281258324754"
     },
     {
       "icon": "ComputerDesktopIcon",
-      "name": "Work type",
-      "value": "Remote or Fulltime"
+      "name": "Jenis Pekerjaan",
+      "value": "Penuh Waktu"
     }
   ],
   "skill": [
-    "C#",
-    "JavaScript",
-    "Angular",
-    "Vue",
-    "CSS",
-    "Tailwindcss",
-    "Dart",
-    "PHP",
-    "TypeScript",
-    "Laravel",
-    "Flutter",
-    "AngularJS",
-    "Bootstrap",
-    "NodeJS",
-    "HTML",
-    "jQuery",
-    "Microsoft SQL",
-    "VS Code",
-    "IIS",
-    "Git",
-    "Windows",
-    "Internet Explorer",
-    "Insomnia"
+    "Editing Photo Canva",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Manajemen Waktu",
+    "Manajemen Keuangan",
+    "Microsoft Powerpoint",
+    "Editing Video Capcut"
   ],
   "language": [
     {
-      "name": "English",
-      "code": "pt-BR",
-      "flag": "svg/united-states.svg",
-      "level": "Native Language"
+      "name": "Bahasa Indonesia",
+      "code": "id-ID",
+      "flag": "svg/indonesia.svg",
+      "level": "Penutur"
     },
     {
-      "name": "Portuguese",
+      "name": "Bahasa Inggris",
       "code": "en-US",
-      "flag": "svg/indonesia.svg",
-      "level": "Intermediate"
+      "flag": "svg/united-states.svg",
+      "level": "Sedang"
     }
   ],
   "experience": [
     {
-      "job": "Bill & Melinda Gates Foundation",
-      "company": "Co-chair",
-      "companyLogo": "img/company/co-chair.jpg",
-      "location": "New York",
-      "workType": "Fulltime",
-      "start": "jan 2000",
-      "end": "Current",
-      "description": "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people’s health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Mark Suzman, under the direction of co-chairs Bill Gates and Melinda French Gates and the board of trustees."
+      "job": "Kasir & Front Office",
+      "company": "UMKM Lokal",
+      "companyLogo": "img/company/umkm.jpg",
+      "location": "Palangkaraya",
+      "workType": "Paruh Waktu",
+      "start": "Jan 2018",
+      "end": "Des 2019",
+      "description": "Menangani transaksi harian, melayani pelanggan, dan menjaga ketepatan pencatatan keuangan. Mengoperasikan kasir dan memastikan kelancaran operasional front office guna mendukung efisiensi bisnis."
     },
     {
-      "job": "Breakthrough Energy",
-      "company": "Founder",
-      "companyLogo": "img/company/founder.jpg",
-      "location": "New York",
-      "workType": "Fulltime",
-      "start": "jan 2015",
-      "end": "Current",
-      "description": "Breakthrough Energy is dedicated to helping humanity avoid a climate disaster. Through investment vehicles, philanthropic programs, policy advocacy, and other activities, we’re committed to scaling the technologies we need to reach net-zero emissions by 2050."
+      "job": "Asisten Peneliti",
+      "company": "Universitas Palangkaraya",
+      "companyLogo": "img/company/upr_logo.png",
+      "location": "Palangkaraya",
+      "workType": "Paruh Waktu",
+      "start": "Jan 2020",
+      "end": "Jan 2021",
+      "description": "Mendampingi dosen dalam pelaksanaan penelitian akademik, termasuk pengumpulan data, analisis, dan penulisan laporan. Melakukan studi literatur untuk mendukung kajian penelitian. Mengelola administrasi penelitian seperti dokumentasi, pengarsipan, dan laporan kemajuan. Membantu proses pembimbingan mahasiswa dalam penelitian dan penulisan karya ilmiah. Berkolaborasi agar penelitian berjalan sesuai jadwal dan standar akademik."
+    },
+    {
+      "job": "Staf Administrasi & Keuangan",
+      "company": "Perkantas Palangkaraya",
+      "companyLogo": "img/company/perkantas.webp",
+      "location": "Palangkaraya",
+      "workType": "Penuh Waktu",
+      "start": "Juni 2021",
+      "end": "Sekarang",
+      "description": "Mengelola layanan mahasiswa dan alumni secara terstruktur dan tepat waktu. Mengoordinasikan jadwal, acara, serta kebutuhan kegiatan pelayanan rohani. Menjadi penghubung antara organisasi dan alumni untuk membangun hubungan yang baik dan berkelanjutan. Mengelola data alumni serta mendukung komunikasi untuk penggalangan dana. Menangani administrasi keuangan termasuk penyusunan anggaran, pencatatan pengeluaran, dan pelaporan keuangan. Menyiapkan laporan administrasi, keuangan, dan kegiatan. Berkontribusi dalam pengembangan strategi pelayanan dan keuangan untuk meningkatkan dampak dan transparansi organisasi."
     }
+    
   ],
   "education": [
     {
-      "college": "Harvard University",
-      "collegeLogo": "img/college/harvard.jpg",
-      "course": "Mathematics, law and computer science",
-      "start": "1973",
-      "end": "1975",
-      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
+      "college": "Unversitas Palangkaraya",
+      "collegeLogo": "img/college/unpar.png",
+      "course": "FKIP - Pendidikan Luar Sekolah (S1)",
+      "start": "2017",
+      "end": "2021",
+      "url": "https://unpar.ac.id"
     },
     {
-      "college": "Lakeside School",
-      "collegeLogo": "img/college/lakeside.jpg",
-      "course": "Technologist in Computer Networks, Network Management and Systems Security",
-      "start": "1963",
-      "end": "1973",
+      "college": "SMA 1 Tarutung",
+      "collegeLogo": "img/college/sma1tarutung.png",
+      "course": "IPA",
+      "start": "2017",
+      "end": "2015",
       "url": ""
     }
   ],
   "volunteer": [
     {
-      "job": "Team Coordinator",
-      "company": "Green Peace",
-      "companyLogo": "img/company/green-peace.jpg",
-      "location": "New York",
-      "workType": "Remote",
-      "start": "January 2000",
-      "end": "Current",
-      "description": "Greenpeace is an independent global campaigning network that acts to change attitudes and behaviour, to protect and conserve the environment and to promote peace. It comprises 26 independent national/regional Greenpeace organisations with presence in over 55 countries across Europe, Africa, the Americas, Asia and the Pacific, as well as a coordinating and supporting organisation, Greenpeace International."
+      "job": "Mahasiswa Magang",
+      "company": "BKP Palangkaraya",
+      "companyLogo": "img/company/bkp_logo.png",
+      "location": "Palangkaraya",
+      "workType": "Paruh Waktu",
+      "start": "Januari 2019",
+      "end": "Juni 2019",
+      "description": ""
     }
   ],
   "certificate": [
     {
-      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2000",
+      "course": "Capcut Editing Video",
+      "school": "Udemy",
+      "schoolLogo": "img/college/udemy.jpg",
+      "issueDate": "September 2025",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+      "credentialCode": "-",
+      "url": ""
     },
     {
-      "course": "Microsoft 365 Fundamentals",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2001",
+      "course": "Microsoft Office Specialist (MOS)",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+      "credentialCode": "-",
+      "url": ""
     },
     {
-      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2002",
+      "course": "Microsoft Office Excel Specialist",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+      "credentialCode": "-",
+      "url": ""
     },
     {
-      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2003",
+      "course": "Artificial Intelligence Microsoft Word",
+      "school": "Jobstreet Training",
+      "schoolLogo": "img/college/jobstreet.png",
+      "issueDate": "Agustus 2025",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
+      "credentialCode": "-",
+      "url": ""
     },
     {
-      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2004",
+      "course": "Training Laporan Keuangan",
+      "school": "Perkantas",
+      "schoolLogo": "img/college/perkantas.webp",
+      "issueDate": "Maret 2024",
       "expirationDate": "No expiration date",
       "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
-    },
-    {
-      "course": "Microsoft Azure Developer Associate (AZ-204)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2005",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
-    },
-    {
-      "course": "Work Smarter with Microsoft Excel",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2006",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+      "url": ""
     }
+    
   ],
   "project": [
     {
-      "name": "Visual Studio Code",
-      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
-      "language": "Typescript",
-      "image": "img/project/vscode.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
+      "name": "Laporan Penelitian",
+      "description": "Laporan",
+      "language": "Karya Ilmiah",
+      "image": "img/college/unpar.png",
+      "stars": "+4",
+      "url": ""
     },
     {
-      "name": "TypeScript",
-      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
-      "language": "Typescript",
-      "image": "img/project/typescript.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "name": "Laporan Penelitian",
+      "description": "Laporan",
+      "language": "Karya Ilmiah",
+      "image": "img/college/unpar.png",
+      "stars": "+4",
+      "url": ""
     }
+    
   ]
 }
